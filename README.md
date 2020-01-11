@@ -1,7 +1,9 @@
+#Landing Your First Dev Job
+
 It’s been a little over a year since I began dedicating most of my free-time to learning web development. Prior to this, I had experience playing around with C# and Unity and was working professionally as a digital marketer who had crossed into other areas, including HTML emails, WordPress/Wix development, and Salesforce development. It was this crossover that peaked my interest in becoming a developer, but, with only the HTML and CSS I picked up from working with HTML emails, WordPress and Wix, I knew there was a lot more I’d need to learn before I was ready to make the career change. Six months later I landed my first Front-End Developer job. This is how I got there:
 
 
-Finding a Mentor
+##Finding a Mentor
 
 Online tutorials were key early on, but, with so many options, it can be difficult for a noobie to gain their bearings. What do I learn? What is JavaScript? It must be like Java… No, no it isn’t Java… How about Python? I hear that’s cool. But what about C, and C#, and C++ and all these other single letter languages.
 It can be overwhelming.
@@ -15,7 +17,7 @@ Recruiters will also be important in the beginning. Even if they don’t get you
 Don’t be afraid to reach out to people, even if you hardly know them. Networking is absolutely key to this stage in your new career, especially if you are going the self-taught route. Attend social events and workshops to build your network. Meetup is a great place to find these events.
 
 
-Stay Out of the Weeds!
+##Stay Out of the Weeds!
 
 There is a lot to learn before you’re ready for your first job. As I said above, this can become overwhelming, but it doesn’t have to be.
 
@@ -26,7 +28,7 @@ Your number one priority should be to get a job as a web developer. You need to 
 I would also strongly recommend that you avoid becoming too reliant on a framework or library while you’re first learning. Early on in my studies I was told I should learn React, so that’s what I did. While I was able to pick it up, I had rushed through vanilla JavaScript to get there, and I now realize I should have been more patient and furthered my understanding of plain old JavaScript before I tried to move on to React. Some would argue that working with a framework or library may help you become a better JavaScript developer, but, as someone who tried that, I would say I disagree. Working with vanilla JavaScript has given me a much more in-depth understanding about what is actually going on behind the scenes than React ever provided me, and it has made me a better React developer as a result. Definitely check out frameworks and get skilled with at least one, but don’t put the cart before the horse!
 
 
-Am I Ready?
+##Am I Ready?
 
 So you’ve found a mentor, completed a bunch of courses, got your fundamentals down… kinda (you’ll continue to work on fundamentals for a very long time), have experience with a framework… What next?
 
