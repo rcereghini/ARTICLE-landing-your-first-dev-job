@@ -1,3 +1,5 @@
+[View Full Article](https://medium.com/@rcereghini/landing-your-first-developer-job-8f6148e42708)
+
 # Landing Your First Dev Job
 
 It’s been a little over a year since I began dedicating most of my free-time to learning web development. Prior to this, I had experience playing around with C# and Unity and was working professionally as a digital marketer who had crossed into other areas, including HTML emails, WordPress/Wix development, and Salesforce development. It was this crossover that peaked my interest in becoming a developer, but, with only the HTML and CSS I picked up from working with HTML emails, WordPress and Wix, I knew there was a lot more I’d need to learn before I was ready to make the career change. Six months later I landed my first Front-End Developer job. This is how I got there:
